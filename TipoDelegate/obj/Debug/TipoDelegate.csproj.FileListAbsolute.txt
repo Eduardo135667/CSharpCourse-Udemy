@@ -1,0 +1,7 @@
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\TipoDelegate\bin\Debug\TipoDelegate.exe.config
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\TipoDelegate\bin\Debug\TipoDelegate.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\TipoDelegate\bin\Debug\TipoDelegate.pdb
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.AssemblyReference.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\TipoDelegate\obj\Debug\TipoDelegate.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\TipoDelegate\obj\Debug\TipoDelegate.pdb

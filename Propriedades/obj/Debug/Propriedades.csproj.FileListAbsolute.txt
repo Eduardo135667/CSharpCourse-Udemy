@@ -1,0 +1,7 @@
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Propriedades\bin\Debug\Propriedades.exe.config
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Propriedades\bin\Debug\Propriedades.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Propriedades\bin\Debug\Propriedades.pdb
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Propriedades\obj\Debug\Propriedades.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Propriedades\obj\Debug\Propriedades.pdb

@@ -1,0 +1,7 @@
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\Encapsular\bin\Debug\Encapsular.exe.config
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\Encapsular\bin\Debug\Encapsular.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\Encapsular\bin\Debug\Encapsular.pdb
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\Encapsular\obj\Debug\Encapsular.csproj.AssemblyReference.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\Encapsular\obj\Debug\Encapsular.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\Encapsular\obj\Debug\Encapsular.pdb

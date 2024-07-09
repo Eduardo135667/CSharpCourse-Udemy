@@ -1,0 +1,7 @@
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\Heranca\bin\Debug\Heranca.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\Heranca\bin\Debug\Heranca.pdb
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\Heranca\obj\Debug\Heranca.csproj.AssemblyReference.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\Heranca\obj\Debug\Heranca.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\Heranca\obj\Debug\Heranca.pdb

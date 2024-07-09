@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estaticas", "Estaticas\Esta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Propriedades", "Propriedades\Propriedades.csproj", "{12F854EB-0F78-40B9-93B0-0002939DB272}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsular", "Encapsular\Encapsular.csproj", "{13804BA6-3649-494C-B636-66ADD67A7D76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{3C508401-3832-4BB1-8E36-926454469E89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{12F854EB-0F78-40B9-93B0-0002939DB272}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12F854EB-0F78-40B9-93B0-0002939DB272}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12F854EB-0F78-40B9-93B0-0002939DB272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13804BA6-3649-494C-B636-66ADD67A7D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13804BA6-3649-494C-B636-66ADD67A7D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13804BA6-3649-494C-B636-66ADD67A7D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13804BA6-3649-494C-B636-66ADD67A7D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C508401-3832-4BB1-8E36-926454469E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C508401-3832-4BB1-8E36-926454469E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C508401-3832-4BB1-8E36-926454469E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C508401-3832-4BB1-8E36-926454469E89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

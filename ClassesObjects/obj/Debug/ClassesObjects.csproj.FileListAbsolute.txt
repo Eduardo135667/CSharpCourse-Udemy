@@ -5,3 +5,10 @@ C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\ClassesObjects\obj\De
 C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\ClassesObjects\obj\Debug\ClassesObjects.csproj.CoreCompileInputs.cache
 C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\ClassesObjects\obj\Debug\ClassesObjects.exe
 C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\ClassesObjects\obj\Debug\ClassesObjects.pdb
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\ClassesObjects\bin\Debug\ClassesObjects.exe.config
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\ClassesObjects\bin\Debug\ClassesObjects.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\ClassesObjects\bin\Debug\ClassesObjects.pdb
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\ClassesObjects\obj\Debug\ClassesObjects.csproj.AssemblyReference.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\ClassesObjects\obj\Debug\ClassesObjects.csproj.CoreCompileInputs.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\ClassesObjects\obj\Debug\ClassesObjects.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\POO\Curso-C--Udemy\ClassesObjects\obj\Debug\ClassesObjects.pdb

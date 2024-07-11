@@ -3,15 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C508401-3832-4BB1-8E36-926454469E89}|Heranca\\Heranca.csproj|c:\\users\\el221\\onedrive\\\u00E1rea de trabalho\\trabalhos c#\\poo\\curso-c--udemy\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C508401-3832-4BB1-8E36-926454469E89}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C508401-3832-4BB1-8E36-926454469E89}|Heranca\\Heranca.csproj|c:\\users\\el221\\onedrive\\\u00E1rea de trabalho\\trabalhos c#\\poo\\curso-c--udemy\\heranca\\caminhonete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C508401-3832-4BB1-8E36-926454469E89}|Heranca\\Heranca.csproj|solutionrelative:heranca\\caminhonete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C508401-3832-4BB1-8E36-926454469E89}|Heranca\\Heranca.csproj|c:\\users\\el221\\onedrive\\\u00E1rea de trabalho\\trabalhos c#\\poo\\curso-c--udemy\\heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C508401-3832-4BB1-8E36-926454469E89}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C508401-3832-4BB1-8E36-926454469E89}|Heranca\\Heranca.csproj|c:\\users\\el221\\onedrive\\\u00E1rea de trabalho\\trabalhos c#\\poo\\curso-c--udemy\\heranca\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C508401-3832-4BB1-8E36-926454469E89}|Heranca\\Heranca.csproj|C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\heranca\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C508401-3832-4BB1-8E36-926454469E89}|Heranca\\Heranca.csproj|solutionrelative:heranca\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +15,15 @@
       "RelativeMoniker": "D:0:0:{3C508401-3832-4BB1-8E36-926454469E89}|Heranca\\Heranca.csproj|solutionrelative:heranca\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13804BA6-3649-494C-B636-66ADD67A7D76}|Encapsular\\Encapsular.csproj|c:\\users\\el221\\onedrive\\\u00E1rea de trabalho\\trabalhos c#\\poo\\curso-c--udemy\\encapsular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C508401-3832-4BB1-8E36-926454469E89}|Heranca\\Heranca.csproj|C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C508401-3832-4BB1-8E36-926454469E89}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C508401-3832-4BB1-8E36-926454469E89}|Heranca\\Heranca.csproj|C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C508401-3832-4BB1-8E36-926454469E89}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13804BA6-3649-494C-B636-66ADD67A7D76}|Encapsular\\Encapsular.csproj|C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\encapsular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13804BA6-3649-494C-B636-66ADD67A7D76}|Encapsular\\Encapsular.csproj|solutionrelative:encapsular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,75 +50,90 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Caminhonete.cs",
+              "DocumentMoniker": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Heranca\\Caminhonete.cs",
+              "RelativeDocumentMoniker": "Heranca\\Caminhonete.cs",
+              "ToolTip": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Heranca\\Caminhonete.cs",
+              "RelativeToolTip": "Heranca\\Caminhonete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:52:28.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Heranca\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Heranca\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Heranca\\Veiculo.cs",
+              "RelativeToolTip": "Heranca\\Veiculo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:45:28.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Veiculo.cs",
-              "DocumentMoniker": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Heranca\\Veiculo.cs",
-              "RelativeDocumentMoniker": "Heranca\\Veiculo.cs",
-              "ToolTip": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Heranca\\Veiculo.cs",
-              "RelativeToolTip": "Heranca\\Veiculo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T23:45:28.543Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Heranca\\Program.cs",
+              "RelativeToolTip": "Heranca\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:33:29.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Bicicleta.cs",
               "DocumentMoniker": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Heranca\\Bicicleta.cs",
               "RelativeDocumentMoniker": "Heranca\\Bicicleta.cs",
               "ToolTip": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Heranca\\Bicicleta.cs",
               "RelativeToolTip": "Heranca\\Bicicleta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T23:40:04.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Heranca\\Carro.cs",
               "RelativeDocumentMoniker": "Heranca\\Carro.cs",
               "ToolTip": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Heranca\\Carro.cs",
               "RelativeToolTip": "Heranca\\Carro.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T23:34:14.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T23:34:14.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Heranca\\Program.cs",
-              "RelativeDocumentMoniker": "Heranca\\Program.cs",
-              "ToolTip": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Heranca\\Program.cs",
-              "RelativeToolTip": "Heranca\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAswA4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T23:33:29.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Encapsular\\Program.cs",
               "RelativeDocumentMoniker": "Encapsular\\Program.cs",
@@ -122,12 +141,11 @@
               "RelativeToolTip": "Encapsular\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAswA8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T00:15:57.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T00:15:57.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Conta.cs",
               "DocumentMoniker": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\Encapsular\\Conta.cs",
               "RelativeDocumentMoniker": "Encapsular\\Conta.cs",
@@ -139,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "OutraClasse.cs",
               "DocumentMoniker": "C:\\Users\\el221\\OneDrive\\\u00C1rea de Trabalho\\trabalhos C#\\POO\\Curso-C--Udemy\\ClassesObjects\\OutraClasse.cs",
               "RelativeDocumentMoniker": "ClassesObjects\\OutraClasse.cs",
